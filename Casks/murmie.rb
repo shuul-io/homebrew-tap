@@ -1,7 +1,7 @@
 cask "murmie" do
   # version and sha256 are updated by scripts/release.sh in the Murmie app repo
   version "1.0.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "342b0e8829d3f4619cf1e0d2d8e5514b44e58b02f2cc9f92cd9f22e6ea17fd7b"
 
   url "https://github.com/shuul-io/murmie-releases/releases/download/v#{version}/Murmie.dmg",
       verified: "github.com/shuul-io/murmie-releases/"
